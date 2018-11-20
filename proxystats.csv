@@ -1,0 +1,2 @@
+addr,label,attempts,successes,consec successes,failures,consec failures,est rtt,most recent bandwidth estimate,est bandwidth
+139.180.210.247:443,fp-vlsgp1-20181118-041-lampshade (139.180.210.247:443),2,2,3,0,0,3.817057912s,2018-11-20T16:33:29.2971291+08:00,2719
